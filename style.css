@@ -245,7 +245,7 @@ section{
     border: 0px solid;
     display: flex;
     justify-content: center;
-    background:url(/image/banner.png) no-repeat;
+    background:url(image/banner.png) no-repeat;
     height: 50rem;
     background-position: center;
     background-size: cover;
